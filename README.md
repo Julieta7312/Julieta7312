@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📝 Sharing learning materials in Data Science and source code of my research
-🎓 Studied Social Sciences at Hitotsubashi University, Tokyo, Japan
-🌱 Currently learning about LLMs and Marketing Science
+📝 Sharing learning materials in Data Science and source code of my research<br>
+🎓 Studied Social Sciences at Hitotsubashi University, Tokyo, Japan<br>
+🌱 Currently learning about LLMs and Marketing Science<br>
 
 ### Github Stats
 ![Julieta7312's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julieta7312&show_icons=true&theme=rose)
