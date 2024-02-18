@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Julieta!
 
 <!--
 **Julieta7312/Julieta7312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📝 Sharing learning materials in Data Science and source code of my research
+🎓 Studied Social Sciences at Hitotsubashi University, Tokyo, Japan
+🌱 Currently learning about LLMs and Marketing Science
+
+### Github Stats
+![Julieta7312's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julieta7312&show_icons=true&theme=rose)
