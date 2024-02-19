@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📝 Sharing learning materials in Data Science and source code of my research<br>
-🎓 Studied Social Sciences at Hitotsubashi University, Tokyo, Japan<br>
+🎓 Studied Computational Social Science at Hitotsubashi University, Tokyo, Japan<br>
 🌱 Currently learning about LLMs and Marketing Science<br>
 
 ### Github Stats
