@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📝 Sharing learning materials in Data Science and source code of my research papers <br>
+📝 Sharing learning materials in Data Science and the source code of my research papers <br>
 🎓 Majored in Computational Social Science at Hitotsubashi University, Tokyo, Japan '25<br>
 🌱 Currently learning about LLMs and Marketing Science<br>
 
