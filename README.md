@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🌱 Currently learning about LLMs and Marketing Science<br>
 
 ### Github Stats
-![Julieta7312's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julieta7312&show_icons=true&theme=vue)
+![Julieta7312's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julieta7312&show_icons=true&theme=noctis_minimus)
