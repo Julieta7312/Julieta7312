@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 🎓 Majored in Computational Social Science at Hitotsubashi University, Tokyo, Japan '25<br>
 🌱 Currently learning about LLMs and Marketing Science<br>
 
-### Github Stats
 ![Julieta7312's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julieta7312&show_icons=true&theme=moltack)
