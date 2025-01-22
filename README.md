@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 <!--
 ![Julieta7312's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julieta7312&show_icons=true&theme=moltack)
--->
 
-### Connect with Me
+### Connect with Me -->
 
 <a href="https://www.linkedin.com/in/julietamatevosyan/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
