@@ -20,20 +20,27 @@ Here are some ideas to get you started:
 <!--
 ![Julieta7312's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julieta7312&show_icons=true&theme=moltack)
 
-### Connect with Me -->
-
-<a href="https://www.linkedin.com/in/julietamatevosyan/" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+### Connect with Me 
+<p>
+<a href="https://www.linkedin.com/in/julietamatevosyan/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin-right: 10px"/>
 </a>
-<a href="mailto:matevosyan.julieta@gmail.com" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" width="30" height="30"/>
+<a href="mailto:matevosyan.julieta@gmail.com">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" width="30" height="30" style="margin-right: 10px"/>
 </a>
-<a href="https://huggingface.co/Julieta73" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="Hugging Face" width="30" height="30"/>
+<a href="https://huggingface.co/Julieta73">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="Hugging Face" width="30" height="30" style="margin-right: 10px"/>
 </a>
-<a href="https://scholar.google.com/citations?user=L4Rcp5oAAAAJ&hl=en" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlescholar.svg" alt="Google Scholar" width="30" height="30"/>
+<a href="https://scholar.google.com/citations?user=L4Rcp5oAAAAJ&hl=en">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlescholar.svg" alt="Google Scholar" width="30" height="30" style="margin-right: 10px"/>
 </a>
-<a href="https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf" style="margin: 0 10px;">
+<a href="https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/researchgate.svg" alt="ResearchGate" width="30" height="30"/>
 </a>
+</p> -->
+
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="30" height="30">](https://scholar.google.com/citations?user=L4Rcp5oAAAAJ&hl=en) &nbsp;
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" width="30" height="30">](https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf) &nbsp;
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="30" height="30">](https://huggingface.co/Julieta73) &nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30" height="30">](https://www.linkedin.com/in/julietamatevosyan/) &nbsp;
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="30" height="30">](mailto:matevosyan.julieta@gmail.com)
