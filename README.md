@@ -22,18 +22,18 @@ Here are some ideas to get you started:
 
 ### Connect with Me -->
 
-<a href="https://www.linkedin.com/in/julietamatevosyan/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/julietamatevosyan/" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
-<a href="mailto:matevosyan.julieta@gmail.com">
+<a href="mailto:matevosyan.julieta@gmail.com" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
 </a>
-<a href="https://huggingface.co/Julieta73">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="Hugging Face" width="40" height="40"/>
+<a href="https://huggingface.co/Julieta73" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="Hugging Face" width="40" height="40"/>
 </a>
-<a href="https://scholar.google.com/citations?user=L4Rcp5oAAAAJ&hl=en">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlescholar.svg" alt="Google Scholar" width="40" height="40"/>
+<a href="https://scholar.google.com/citations?user=L4Rcp5oAAAAJ&hl=en" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlescholar.svg" alt="Google Scholar" width="40" height="40"/>
 </a>
-<a href="https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/researchgate.svg" alt="ResearchGate" width="40" height="40"/>
+<a href="https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/researchgate.svg" alt="ResearchGate" width="40" height="40"/>
 </a>
