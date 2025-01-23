@@ -61,7 +61,7 @@ Investigating the transformative potential of Large Language Models (LLMs) in Ma
 - Natural Language Processing & LLMs
 - Marketing Analytics
 - Policy Impact Assessment
-- Educational Outcomes in Transitional Economies
+- Educational Outcomes in Transition Economies
 
 Committed to leveraging data-driven insights for societal impact. Open to collaborations and discussions on innovative applications of AI in social sciences.
 
