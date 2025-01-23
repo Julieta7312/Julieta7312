@@ -53,7 +53,7 @@ Computational social scientist specializing in advanced methodologies at the int
 
 ### Current Focus
 
-Investigating the transformative potential of Large Language Models (LLMs) in Marketing Science, bridging cutting-edge AI with consumer behavior analysis.
+Investigating the transformative potential of Large Language Models (LLMs) in Marketing Science, bridging cutting-edge AI with consumer behavior analysis in Japanese market.
 
 ### Research Interests
 
