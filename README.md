@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 <a href="https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/researchgate.svg" alt="ResearchGate" width="30" height="30"/>
 </a>
-</p> -->
+</p> 
 
-🔬 Researcher | Computational Social Science | Hitotsubashi University '25
+🔬 Researcher | Computational Social Science | Hitotsubashi University '25 -->
 
 Researcher specializing in social sciences with a focus on advanced computational methodologies. Committed to open-source knowledge sharing through comprehensive research code and learning materials. Currently exploring the intersections of Large Language Models and Marketing Science, with a goal of driving innovative analytical approaches.
 
