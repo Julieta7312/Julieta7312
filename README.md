@@ -65,8 +65,8 @@ Investigating the transformative potential of Large Language Models (LLMs) in Ma
 
 Committed to leveraging data-driven insights for societal impact. Open to collaborations and discussions on innovative applications of AI in social sciences.
 
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" width="25" height="25">](https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf) &nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="25" height="25">](https://scholar.google.com/citations?user=L4Rcp5oAAAAJ&hl=en) &nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="25" height="25">](https://huggingface.co/Julieta73) &nbsp;&nbsp;
-[<img src="https://www.svgrepo.com/show/127389/linkedin-logotype.svg" width="25" height="25">](https://www.linkedin.com/in/julietamatevosyan/) &nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" width="30" height="30">](https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf) &nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="30" height="30">](https://scholar.google.com/citations?user=L4Rcp5oAAAAJ&hl=en) &nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="30" height="30">](https://huggingface.co/Julieta73) &nbsp;&nbsp;
+[<img src="https://www.svgrepo.com/show/127389/linkedin-logotype.svg" width="30" height="30">](https://www.linkedin.com/in/julietamatevosyan/) &nbsp;&nbsp;
 <!-- [<img src="https://www.svgrepo.com/show/306521/orcid.svg" width="30" height="30">](https://orcid.org/my-orcid?orcid=0000-0002-6221-1976) &nbsp;&nbsp; -->
