@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 🔬 Researcher | Computational Social Science | Hitotsubashi University '25 -->
 
-Researcher specializing in social sciences with a focus on advanced computational methodologies. Committed to open-source knowledge sharing through comprehensive research code and learning materials. Currently exploring the intersections of Large Language Models and Marketing Science.
+Researcher specializing in social sciences with a focus on advanced computational methodologies. Committed to open-source knowledge sharing through comprehensive research code and learning materials. My dissertation focused on economic and policy-related factors that significantly impact education outcomes and career preferences in post-Soviet states. Currently exploring the intersections of Large Language Models and Marketing Science.
 
 Research Interests:
 - Large Language Models
