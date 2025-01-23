@@ -40,14 +40,12 @@ Here are some ideas to get you started:
 
 🔬 Researcher | Computational Social Science | Hitotsubashi University '25
 
-Dedicated researcher specializing in social sciences with a focus on advanced computational methodologies. Committed to open-source knowledge sharing through comprehensive research code and learning materials. Currently exploring the intersections of Large Language Models and Marketing Science, with a goal of driving innovative analytical approaches.
+Researcher specializing in social sciences with a focus on advanced computational methodologies. Committed to open-source knowledge sharing through comprehensive research code and learning materials. Currently exploring the intersections of Large Language Models and Marketing Science, with a goal of driving innovative analytical approaches.
 
 Research Interests:
 - Large Language Models
 - Marketing Science
 - Computational Social Science
-
-Profiles:
 
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" width="30" height="30">](https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf) &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="30" height="30">](https://scholar.google.com/citations?user=L4Rcp5oAAAAJ&hl=en) &nbsp;&nbsp;
