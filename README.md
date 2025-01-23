@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 📝 Sharing learning materials in Data Science and the source code of my research papers <br>
 🎓 Majored in Computational Social Science at Hitotsubashi University, Tokyo, Japan '25<br>
 🌱 Currently learning about LLMs and Marketing Science<br>
 
-<!--
 ![Julieta7312's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julieta7312&show_icons=true&theme=moltack)
 
 ### Connect with Me 
@@ -38,6 +37,17 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/researchgate.svg" alt="ResearchGate" width="30" height="30"/>
 </a>
 </p> -->
+
+🔬 Researcher | Computational Social Science | Hitotsubashi University '25
+
+Dedicated researcher specializing in social sciences with a focus on advanced computational methodologies. Committed to open-source knowledge sharing through comprehensive research code and learning materials. Currently exploring the intersections of Large Language Models and Marketing Science, with a goal of driving innovative analytical approaches.
+
+Research Interests:
+- Large Language Models
+- Marketing Science
+- Computational Social Science
+
+Profiles:
 
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" width="30" height="30">](https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf) &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="30" height="30">](https://scholar.google.com/citations?user=L4Rcp5oAAAAJ&hl=en) &nbsp;&nbsp;
