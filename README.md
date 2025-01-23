@@ -49,7 +49,7 @@ Research Interests:
 
 ## About Me
 
-Computational social scientist specializing in advanced methodologies at the intersection of data science and social research. Passionate advocate for open-source knowledge sharing, providing comprehensive research code and educational materials. My doctoral work explored economic and policy factors influencing education outcomes and career trajectories in post-Soviet states.
+Computational social scientist specializing in advanced methodologies at the intersection of data science and social research. Committed to open-source knowledge sharing, providing comprehensive research code and educational materials. My doctoral work explored economic and policy factors influencing education outcomes and career trajectories in post-Soviet states.
 
 ## Current Focus
 
