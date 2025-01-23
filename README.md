@@ -38,14 +38,34 @@ Here are some ideas to get you started:
 </a>
 </p> 
 
-🔬 Researcher | Computational Social Science | Hitotsubashi University '25 -->
+🔬 Researcher | Computational Social Science | Hitotsubashi University '25
 
 Researcher specializing in social sciences with a focus on advanced computational methodologies. Committed to open-source knowledge sharing through comprehensive research code and learning materials. My dissertation focused on economic and policy-related factors that significantly impact education outcomes and career preferences in post-Soviet states. Currently exploring the intersections of Large Language Models and Marketing Science.
 
 Research Interests:
 - Computational Social Science
 - Large Language Models
-- Marketing Science
+- Marketing Science -->
+
+Here's a refined version of the intro for your GitHub account:
+
+## About Me
+
+Computational social scientist specializing in advanced methodologies at the intersection of data science and social research. Passionate advocate for open-source knowledge sharing, providing comprehensive research code and educational materials. My doctoral work explored economic and policy factors influencing education outcomes and career trajectories in post-Soviet states.
+
+## Current Focus
+
+Investigating the transformative potential of Large Language Models (LLMs) in Marketing Science, bridging cutting-edge AI with consumer behavior analysis.
+
+## Research Interests
+
+- Computational Social Science
+- Natural Language Processing & LLMs
+- Marketing Analytics
+- Policy Impact Assessment
+- Educational Outcomes in Transitional Economies
+
+Committed to leveraging data-driven insights for societal impact. Open to collaborations and discussions on innovative applications of AI in social sciences.
 
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" width="30" height="30">](https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf) &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="30" height="30">](https://scholar.google.com/citations?user=L4Rcp5oAAAAJ&hl=en) &nbsp;&nbsp;
