@@ -47,15 +47,15 @@ Research Interests:
 - Large Language Models
 - Marketing Science -->
 
-## About Me
+#### About Me
 
 Computational social scientist specializing in advanced methodologies at the intersection of data science and social research. Committed to open-source knowledge sharing, providing comprehensive research code and educational materials. My doctoral work explored economic and policy factors influencing education outcomes and career trajectories in post-Soviet states.
 
-## Current Focus
+#### Current Focus
 
 Investigating the transformative potential of Large Language Models (LLMs) in Marketing Science, bridging cutting-edge AI with consumer behavior analysis.
 
-## Research Interests
+#### Research Interests
 
 - Computational Social Science
 - Natural Language Processing & LLMs
