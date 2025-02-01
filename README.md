@@ -55,13 +55,13 @@ Computational social scientist specializing in advanced methodologies at the int
 
 Investigating the transformative potential of Large Language Models (LLMs) in Marketing Science, bridging cutting-edge AI with consumer behavior analysis in Japanese market.
 
-### Research Interests
+<!-- ### Research Interests
 
 - Computational Social Science
 - Natural Language Processing & LLMs
 - Marketing Analytics
 - Policy Impact Assessment
-- Educational Outcomes in Transition Economies
+- Educational Outcomes in Transition Economies -->
 
 Committed to leveraging data-driven insights for societal impact. Open to collaborations and discussions on innovative applications of AI in social sciences.
 
