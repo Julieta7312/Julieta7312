@@ -49,7 +49,7 @@ Research Interests:
 
 ### About Me
 
-Computational social scientist specializing in advanced methodologies at the intersection of data science and social research. Committed to open-source knowledge sharing, providing comprehensive research code and educational materials. My doctoral work explored economic and policy factors influencing education outcomes and career trajectories in post-Soviet states. Currently investigating the transformative potential of Large Language Models (LLMs) in Marketing Science, bridging cutting-edge AI with consumer behavior analysis in Japanese market. Committed to leveraging data-driven insights for societal impact. Open to collaborations and discussions on innovative applications of AI in social sciences.
+Computational social scientist specializing in advanced methodologies at the intersection of data science and social research. Committed to leveraging data-driven insights for societal impact. My doctoral work explored economic and policy factors influencing education outcomes and career trajectories in post-Soviet states. Currently I investigate the transformative potential of Large Language Models (LLMs) in Marketing Science, bridging AI with consumer behavior analysis in Japanese market. Open to collaborations and discussions on innovative applications of AI in social sciences.
 
 <!-- ### Research Interests
 
