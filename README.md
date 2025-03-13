@@ -51,7 +51,12 @@ Research Interests:
 
 ### About me
 
-Computational social scientist specialising in advanced methodologies at the intersection of data science and social research. Committed to leveraging data-driven insights for societal impact. My doctoral work explored economic and policy factors influencing education outcomes and career trajectories in post-Soviet states. I am currently investigating the transformative potential of Large Language Models (LLMs) in Marketing Science, bridging AI with consumer behaviour analysis in the Japanese market. 
+Computational social scientist specialising in advanced methodologies at the intersection of data science and social research.
+
+My doctoral work explored economic and policy factors influencing education outcomes and career choices in post-Soviet states. 
+
+I am currently investigating the transformative potential of Large Language Models (LLMs) in Marketing Science, bridging AI with consumer behaviour analysis in the Japanese market. 
+
 Open to collaborations and discussions on innovative applications of AI in social sciences.
 
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" width="30" height="30">](https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf) &nbsp;&nbsp;
