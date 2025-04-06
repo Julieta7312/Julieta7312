@@ -47,23 +47,7 @@ Research Interests:
 - Natural Language Processing & LLMs
 - Marketing Analytics
 - Policy Impact Assessment
-- Educational Outcomes in Transition Economies
-
-Segmentation can be done with tagging (as dummy variables or topics, female topic, age topic, etc.)
-Organise the data first to see what attributes (place of living, age, gender, occupation, and other background, as well as how many times they bought as a criterion for clustering) we can use.
-The analysis will take 1 week or 2.
-Purpose: is it to promote sales? How will they try to promote? It will impact the clustering criteria.
-
-1)	In the past, mostly men smoked, but now they are using ZYN (gummies), so it’s the same gender segment, although their preferences have changed. Thus, the demands of this segment have evolved. Therefore, we should utilise streaming K-means, which applies constraints to the clusters to ensure we don’t lose the “male” attribute of the cluster due to shifts in demand.
-
-2)	The advantage of the chatbot (language model API; it doesn’t have to be large; it can be small, too) is that the user can prompt for constructive tweets or feedback and receive examples with informative responses. Then, you can ask the model to summarise the key points that, according to the customer, are required to improve the product (this information can surface in a noisy format, making manual analysis impossible). Additionally, we can ask the model to count the frequency of constructive feedback, among other tasks.
-To achieve the above, we need a significant amount of GPU (either purchased separately or by providing me with a better laptop -> this could be Ok for one-shot research with a less powerful model, but the data is increasing throughout the time). 
-
-3)	AWS’s safety advantage - Hugging Face’s models can be safely downloaded from AWS.
-4)	AWS Sagemaker and Bedrock differences – Sagemaker is more overall (like the IDE environment from where you can download the libraries and packages to use), while Bedrock provides the AI foundation model APIs and GUI (graphical user interface). We can use Bedrock without Sagemaker too.
-5)	The good about using cloud platforms is that we can use them securely using verified tools.
-6)	We can also train a smaller language model with a bigger AWS-provided model by paying a certain amount of money. The trained smaller model won’t be multifunctional though but will still provide the same accuracy for the tasks with trained it for.
--->
+- Educational Outcomes in Transition Economies -->
 
 ### About me
 
