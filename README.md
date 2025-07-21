@@ -60,4 +60,4 @@ Open to collaborations on innovative applications of AI in Social Sciences. <br>
 [<img src="https://www.svgrepo.com/show/127389/linkedin-logotype.svg" width="30" height="30">](https://www.linkedin.com/in/julietamatevosyan/) &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="30" height="30">](https://huggingface.co/Julieta73) &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="30" height="30">](https://scholar.google.com/citations?user=L4Rcp5oAAAAJ&hl=en) &nbsp;&nbsp;
-[<img src="https://www.svgrepo.com/show/530292/bushes-of-leaves.svg" width="30" height="30">](https://julieta7312.github.io/) &nbsp;&nbsp; -->
+[<img src="https://www.svgrepo.com/show/530292/bushes-of-leaves.svg" width="30" height="30">](https://julieta7312.github.io/) &nbsp;&nbsp;
