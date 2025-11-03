@@ -49,12 +49,14 @@ Research Interests:
 - Policy Impact Assessment
 - Educational Outcomes in Transition Economies -->
 
-### About me
+### About me <br>
 
-Computational social scientist specialising in advanced methodologies at the intersection of data science and social research. <br>
+A computational social scientist specialising in advanced methodologies at the intersection of data science and social research. <br>
 My doctoral work explored economic and policy factors influencing education outcomes and career trajectories in post-Soviet states. <br>
 Currently, I am investigating the utilization of LLMs in Marketing Science, bridging AI with consumer behaviour analysis in the Japanese market. <br>
 For more details, feel free to check out my website and connect. <br>
+
+---
 
 [<img src="https://www.svgrepo.com/show/513122/leaf.svg" width="30" height="30">](https://julieta7312.github.io/) &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" width="30" height="30">](https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf) &nbsp;&nbsp;
