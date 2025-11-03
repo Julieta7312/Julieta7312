@@ -49,7 +49,7 @@ Research Interests:
 - Policy Impact Assessment
 - Educational Outcomes in Transition Economies -->
 
-### About Me
+### About me
 
 A Computational Social Scientist specialising in advanced methodologies at the intersection of data science and social research. <br>
 My doctoral work explored economic and policy factors influencing education outcomes and career trajectories in post-Soviet states. <br>
@@ -61,6 +61,6 @@ For more details, feel free to check out my website and connect. <br>
 [<img src="https://www.svgrepo.com/show/127389/linkedin-logotype.svg" width="30" height="30">](https://www.linkedin.com/in/julietamatevosyan/) &nbsp;&nbsp;
 <!-- [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="30" height="30">](https://huggingface.co/Julieta73) &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="30" height="30">](https://scholar.google.com/citations?user=L4Rcp5oAAAAJ&hl=en) &nbsp;&nbsp; -->
-<!-- I am always open to collaborations on applications of AI in Social Sciences. <br> -->
+<!-- I am always open to collaborations on applications of AI in Social Sciences. 
 
-![Julieta7312's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julieta7312&show_icons=true&theme=moltack)
+![Julieta7312's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julieta7312&show_icons=true&hide_rank=true&theme=moltack) <br> -->
