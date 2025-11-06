@@ -56,10 +56,11 @@ My doctoral work explored economic and policy factors influencing education outc
 Currently, I am investigating the utilization of LLMs in Marketing Science, bridging AI with consumer behaviour analysis in the Japanese market. <br>
 For more details, feel free to check out my website and connect. <br>
 
-[<img src="https://www.svgrepo.com/show/513122/leaf.svg" width="30" height="30">](https://julieta7312.github.io/) &nbsp;&nbsp;
+[<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="30" height="30">](https://julieta7312.github.io/) &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" width="30" height="30">](https://www.researchgate.net/profile/Julieta-Matevosyan?ev=hdr_xprf) &nbsp;&nbsp;
 [<img src="https://www.svgrepo.com/show/127389/linkedin-logotype.svg" width="30" height="30">](https://www.linkedin.com/in/julietamatevosyan/) &nbsp;&nbsp;
 <!-- [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="30" height="30">](https://huggingface.co/Julieta73) &nbsp;&nbsp;
+[<img src="https://www.svgrepo.com/show/513122/leaf.svg" width="30" height="30">](https://julieta7312.github.io/) &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="30" height="30">](https://scholar.google.com/citations?user=L4Rcp5oAAAAJ&hl=en) &nbsp;&nbsp; -->
 <!-- I am always open to collaborations on applications of AI in Social Sciences. 
 
